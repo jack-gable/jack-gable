@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
 <h3 align="center">Web developer | Frontend Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jack-gable&label=Profile%20views&color=0e75b6&style=plastic" alt="jack-gable" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jack-gable&label=Profile%20views&color=0e75b6&style=plastic" alt="jack-gable" /> <img alt="freeCodeCamp points" src="https://img.shields.io/freecodecamp/points/jack-gable?style=plastic&label=FreeCodeCamp%20points"=>
+ </p>
 
 - 🌱 I’m currently learning **Next.js**, **SASS**
 
