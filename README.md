@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning &nbsp; <img align="center" src="https://img.shields.io/badge/Typescript-3178c6?style=plastic&logo=TypeScript&logoColor=white" alt="typescript"/>
 
-- 👨‍💻 Check out my website at [www.jackrgable.com](www.jackrgable.com)
+- 👨‍💻 Check out my website at [www.jackrgable.com](https://www.jackrgable.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
