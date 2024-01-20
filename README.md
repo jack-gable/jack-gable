@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jack-gable&label=Profile%20views&color=0e75b6&style=plastic" alt="jack-gable" /></p>
 
-- 🌱 I’m currently learning &nbsp; <img align="center" src="https://img.shields.io/badge/Typescript-3178c6?style=plastic&logo=TypeScript&logoColor=white" alt="typescript"/> & <img align="center" src="https://img.shields.io/badge/React_Native-61DAFB?style=plastice&logo=react&logoColor=black" alt="react-native"/> 
+- 🌱 I’m currently learning &nbsp; <img align="center" src="https://img.shields.io/badge/Typescript-3178c6?style=plastic&logo=TypeScript&logoColor=white" alt="typescript"/>
 
 - 👨‍💻 Check out my website at [www.jackrgable.com](https://www.jackrgable.com)
 
