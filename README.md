@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
-<h3 align="center">Web developer | Frontend Engineer</h3>
+<h3 align="center">React developer | Frontend Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jack-gable&label=Profile%20views&color=0e75b6&style=plastic" alt="jack-gable" /></p>
 
